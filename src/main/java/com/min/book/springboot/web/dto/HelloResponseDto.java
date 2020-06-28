@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot.web.dto;
+package com.min.book.springboot.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot;
+package com.min.book.springboot;
 
 
 import org.springframework.boot.SpringApplication;
